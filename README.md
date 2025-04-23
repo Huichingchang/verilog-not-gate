@@ -38,7 +38,7 @@ monitor_log_not.txt：模擬文字輸出
 
 not_gate.vcd：可在 ModelSim 中顯示波形
 
-可擷取畫面匯出 wave_not_gate.png
+可擷取畫面匯出 wave_not_tb.png
 
 🧪 模擬輸出結果範例
 

@@ -38,12 +38,10 @@ monitor_log_not.txt：模擬文字輸出
 
 not_gate.vcd：可在 ModelSim 中顯示波形
 
-可擷取畫面匯出 waveform_not_gate.png
+可擷取畫面匯出 wave_not_gate.png
 
 🧪 模擬輸出結果範例
-ini
-複製
-編輯
+
 a=0, y=1 @ 0 ns
 a=1, y=0 @ 10 ns
 📌 備註

@@ -20,7 +20,7 @@
 
 > 以下是模擬結果的波形顯示（由 ModelSim 擷取並匯出）
 
-![NOT Gate Waveform](waveform_not_gate.png)
+![NOT Gate Waveform](wave_not_gate.png)
 
 ---
 

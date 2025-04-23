@@ -12,7 +12,7 @@
 | `not_gate_tb.v`        | 測試平台（Testbench）程式                     |
 | `monitor_log_not.txt`  | 模擬輸出結果的紀錄（由 `$fwrite` 寫入）       |
 | `not_gate.vcd`         | 模擬產生的 VCD 波形檔，可用於 ModelSim 波形顯示 |
-| `waveform_not_gate.png`| 匯出的波形圖（ModelSim 擷取畫面）             |
+| `wave_not_tb.png`      | 匯出的波形圖（ModelSim 擷取畫面）             |
 
 ---
 
@@ -20,7 +20,7 @@
 
 > 以下是模擬結果的波形顯示（由 ModelSim 擷取並匯出）
 
-![NOT Gate Waveform](wave_not_gate.png)
+![NOT Gate Waveform](wave_not_tb.png)
 
 ---
 
